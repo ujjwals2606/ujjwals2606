@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data structure and Algorithms 
 - 📫 How to reach me ujjwalsingh7412@gmail.com
 - 😄 Pronouns: Ujjwal 
-- ⚡ Fun fact: consistency == successful 
+- ⚡ Fun fact: consistency == successfull
 
 <!---
 ujjwals2606/ujjwals2606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
