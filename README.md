@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ujjwals2606
 - 👀 I’m interested in web development and data analytics 
 - 🌱 I’m currently learning Data structure and Algorithms 
-- 📫 How to reach me ujjwalsingh7412@gmail.com
+- 📫 reach me ujjwalsingh7412@gmail.com
 - 😄 Pronouns: Ujjwal 
 - ⚡ Fun fact: consistency == successfull
 
