@@ -66,8 +66,9 @@ An **AI-powered** real-time face detection and recognition system using **Python
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwals2606&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=ujjwals2606&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 ---
 
