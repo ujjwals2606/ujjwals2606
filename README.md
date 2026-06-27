@@ -246,7 +246,7 @@ https://github.com/ujjwals2606/face-recognition-system
 <img src="https://img.shields.io/badge/Codolio-FF7F00?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:ujjwalsingh7412@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
